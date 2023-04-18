@@ -28,13 +28,21 @@ Result Metrics
 Mean Squared Error(MSE),Mean Absolute Percentage Error(MAPE), R2 Score.(Time Series)
 
 # Tools and Libraries
+
 Python 3.6
+
 Pandas
+
 Matplotlib
+
 Sklearn
+
 Seaborn
+
 Statsmodels
+
 Scipy
+
 Keras
 
 # About the Data
